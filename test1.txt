@@ -10,3 +10,5 @@ branch dev
 
 
 merge branch
+
+conflict form master
