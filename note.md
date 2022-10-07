@@ -1,4 +1,5 @@
 # Terms
+branch
 # Command
 -git init 
 -git status
@@ -8,3 +9,7 @@
 -git log :history commit
 -git log --oneline
 -git checkout back to commit time
+
+
+-create branch
+git branch -b
