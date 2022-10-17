@@ -3,7 +3,7 @@
     ipsam reiciendis distinctio animi voluptatum id, alias expedita quasi? Animi rem eaque soluta sed cumque.
 # DEMO IMG
 
-<<<<<<< HEAD
+
    ![AVT](newyork.jpg)
 
 # DEMO CODE
@@ -21,7 +21,7 @@ const router = express.Router();
  ```
 
 # NOTE
-<<<<<<< HEAD
+
 - aaaaaaaaaa
 - aaaaaaaaaa
 - aaaaaaaaaa
