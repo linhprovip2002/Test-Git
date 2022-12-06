@@ -10,3 +10,8 @@ branch dev
 
 
 merge branch
+
+
+conflick here
+
+conflict form master

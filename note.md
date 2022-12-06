@@ -13,3 +13,6 @@ branch
 
 -create branch
 git branch -b
+
+-git merge {branch name}
+-git branch -d {branch name}
